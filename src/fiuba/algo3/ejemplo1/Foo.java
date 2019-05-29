@@ -6,9 +6,9 @@ import java.util.HashMap;
 public class Foo {
 
 	public static void main(String[] args) {
-		System.out.println("Foo bye");
+		System.out.println("Foo hello");
 	}
-	
+
 	public String doFoo() {
 		return "Foo";
 	}
